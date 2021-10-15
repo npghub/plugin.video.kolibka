@@ -9,7 +9,6 @@ import xbmcgui
 import xbmcplugin
 import xbmcaddon
 import xbmcvfs
-from ga import ga
 import urllib
 
 __addon_id__= 'plugin.video.kolibka'
