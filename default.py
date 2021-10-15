@@ -21,7 +21,7 @@ __cwd__ = xbmcvfs.translatePath(__Addon.getAddonInfo('path'))
 __resource__ = xbmcvfs.translatePath( os.path.join( __cwd__, 'resources', 'lib' ) )
 searchicon = xbmcvfs.translatePath(os.path.join(__cwd__, 'resources', 'search.png'))
 
-_UA = {'user-agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/90.0'}
+_UA = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0'}
 
 _sorting = {
     '0': 'moviedate',

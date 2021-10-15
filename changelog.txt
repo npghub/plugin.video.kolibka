@@ -1,4 +1,6 @@
-[B]*** 0.1.1 ***[/B]
+[B]*** 0.3.1 ***[/B]
+- Ported to Python 3
+
 - Fix order options
 - More movie info added
 [B]*** 0.1.0 ***[/B]
